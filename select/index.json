@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "キミとボクの最幸な生活。",
+  "base_artist": "平井 大",
+  "createdAt": "2026-03-19T03:12:46.874052Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キミとボクの最幸な生活。",
+      "artist": "HIRAIDAI",
+      "has_synced": true,
+      "path": "select/01_キミとボクの最幸な生活。_HIRAIDAI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キミとボクの最幸な生活。",
+      "artist": "平井大",
+      "has_synced": false,
+      "path": "select/pl_01_キミとボクの最幸な生活。_平井大.txt"
+    }
+  ]
+}
